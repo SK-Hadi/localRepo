@@ -1,0 +1,10 @@
+[1mdiff --git a/indsx.html b/indsx.html[m
+[1mindex d5a3f5e..7a35a68 100644[m
+[1m--- a/indsx.html[m
+[1m+++ b/indsx.html[m
+[36m@@ -1 +1,2 @@[m
+[31m-<p>this is a new repo.</p>[m
+\ No newline at end of file[m
+[32m+[m[32m<p>this is a new repo.</p>[m
+[32m+[m[32m<p>this is a new featcher</p>[m
+\ No newline at end of file[m
